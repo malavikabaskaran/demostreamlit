@@ -44,7 +44,7 @@ def main():
 
     st.sidebar.markdown('---')
     st.sidebar.text("Created by:")
-    st.sidebar.text("Malavika - B22EC0069")
+    st.sidebar.text("Malavika Baskaran - B22EC0069")
     st.sidebar.text("Noor Hannani Syamimi Binti Mohd Suffian - A21EC0104")
     st.sidebar.text("Maathuree A/P Veerabalan - A21EC0051")
 
